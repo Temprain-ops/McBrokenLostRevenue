@@ -7,4 +7,4 @@ all of them are listed in the script.
 
 The formula for computing net loss is following
 
-![equation](https://latex.codecogs.com/svg.image?NetLoss&space;=&space;\frac{NumberOfHoursWithBrokenMachinesAmongAllRestaurants}{24}&space;\times&space;\frac{NumberOfVisitorsPerDayInTheUSA&space;\times&space;PercentageOfPeopleWhoOrderedDesert&space;\times&space;PercentageOfIceCreamAmongDeserts&space;\times&space;OneIceCreamNetIncome}{NumberOfRestaurantsInTheUSA})
+![equation](https://latex.codecogs.com/svg.image?\bg{white}NetLoss&space;=&space;\frac{NumberOfHoursWithBrokenMachinesAmongAllRestaurants}{24}&space;\times&space;\frac{NumberOfVisitorsPerDayInTheUSA&space;\times&space;PercentageOfPeopleWhoOrderedDesert&space;\times&space;PercentageOfIceCreamAmongDeserts&space;\times&space;OneIceCreamNetIncome}{NumberOfRestaurantsInTheUSA})
